@@ -19,6 +19,11 @@ main, section{
     width: 100%;
 }
 
+.greeting {
+    color: blue;
+    font-size: 20rem;
+}
+
 header {
     display: flex;
     justify-content: space-between;
