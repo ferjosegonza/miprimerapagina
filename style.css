@@ -20,8 +20,9 @@ main, section{
 }
 
 .greeting {
-    color: blue;
-    font-size: 20rem;
+    color: rgb(56, 55, 55);
+    font-size: 1rem;
+    font-style: italic;
 }
 
 header {
